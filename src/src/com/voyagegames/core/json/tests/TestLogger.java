@@ -3,7 +3,7 @@ package com.voyagegames.core.json.tests;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.voyagegames.core.json.ILogger;
+import com.voyagegames.core.ILogger;
 
 public class TestLogger implements ILogger {
 	

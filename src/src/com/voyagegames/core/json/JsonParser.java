@@ -3,6 +3,8 @@ package com.voyagegames.core.json;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.voyagegames.core.ILogger;
+
 public class JsonParser {
 	
 	private enum JsonSyntax {

@@ -1,4 +1,4 @@
-package com.voyagegames.core.json;
+package com.voyagegames.core;
 
 public interface ILogger {
 	
